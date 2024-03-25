@@ -2,7 +2,7 @@
 
 
 ## Implementation Guidlines
-npm install
+npm install,
 npm start
 
 ![image](https://github.com/narayan-subramanian/CarotLane_Tanishq_Clone/assets/82702670/c88a36bb-504f-4c05-a301-449c74ffdfae)
