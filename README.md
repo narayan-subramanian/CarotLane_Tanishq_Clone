@@ -1,4 +1,10 @@
 # CarotLane Application
+
+
+## Implementation Guidlines
+npm install
+npm start
+
 ![image](https://github.com/narayan-subramanian/CarotLane_Tanishq_Clone/assets/82702670/c88a36bb-504f-4c05-a301-449c74ffdfae)
 ![image](https://github.com/narayan-subramanian/CarotLane_Tanishq_Clone/assets/82702670/1488356e-2989-4e29-872c-a54f0df82a26)
 ![image](https://github.com/narayan-subramanian/CarotLane_Tanishq_Clone/assets/82702670/27eb46d4-1ae3-407e-8e13-9c41611c7068)
